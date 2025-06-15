@@ -1,0 +1,1 @@
+# MBA-FIAP-Cognitive-Environments-Face-Text-Extraction
